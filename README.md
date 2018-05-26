@@ -9,3 +9,22 @@ A robotic arm is a type of mechanical arm, usually programmable, with similar fu
 6. Jumper Cable
 7. Potentiometer
 8. Breadboard
+
+<a href="http://ertkrn.com/Content/Proje/RobotikKol/robot1.jpg">
+   <img src="http://ertkrn.com/Content/Proje/RobotikKol/robot1.jpg" alt="RoboticArm" style="width:100px; height:285px;">
+   <div class="caption">
+     <p><small>Robot Kol Devresi - 1</small></p>
+   </div>
+ </a>
+<a href="http://ertkrn.com/Content/Proje/RobotikKol/robot2.jpg">
+   <img src="http://ertkrn.com/Content/Proje/RobotikKol/robot2.jpg" alt="RoboticArm" style="width:100px; height:285px;">
+   <div class="caption">
+      <p><small>Robot Kol Devresi - 2</small></p>
+   </div>
+</a>
+<a href="http://ertkrn.com/Content/Proje/RobotikKol/robot3.jpg">
+   <img src="http://ertkrn.com/Content/Proje/RobotikKol/robot3.jpg" alt="RoboticArm" style="width:100px; height:285px;">
+   <div class="caption">
+      <p><small>Robot Kol üzerindeki Servo Motor</small></p>
+   </div>
+</a>
