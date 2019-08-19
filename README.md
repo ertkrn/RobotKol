@@ -1,4 +1,7 @@
 # ROBOTIC ARM
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eev2Yc24k58" target="_blank"><img src="http://img.youtube.com/vi/eev2Yc24k58/0.jpg" alt="ROBOTIC ARM" width="893" height="500" border="10" /></a>
+
 A robotic arm is a type of mechanical arm, usually programmable, with similar functions to a human arm; the arm may be the sum total of the mechanism or may be part of a more complex robot.
 ## Required Materials
 1. Poly(methyl methacrylate)
